@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-openapi-validate": "^0.4.4",
+    "js-yaml": "^3.13.1"
   }
 }
